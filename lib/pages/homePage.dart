@@ -149,7 +149,7 @@ class _HomePageState extends State<HomePage> {
                         ),
                         Container(
                           margin: EdgeInsets.symmetric(
-                              vertical: 20, horizontal: 20),
+                              vertical: 40, horizontal: 20),
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
